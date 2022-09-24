@@ -1,0 +1,17 @@
+name = "xapian_jll"
+uuid = "33cc2c07-6332-5284-ab37-6d61ea83d272"
+version = "1.4.20+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libuuid_jll = "38a345b3-de98-5d2b-a5d3-14cd9215e700"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+ICU_jll = "a51ab1cf-af8e-5615-a023-bc2c838bba6b"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.6"
+ICU_jll = "69.1"

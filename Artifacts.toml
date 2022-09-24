@@ -1,0 +1,148 @@
+[[xapian]]
+arch = "aarch64"
+git-tree-sha1 = "b628112b17dffc9ec0787bcbd24f99ec0470dd62"
+os = "macos"
+
+    [[xapian.download]]
+    sha256 = "377d55d08875c23c7a6bf5145b2ca2e8d85e2a8e3c9375e80bc9b8836c198686"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.aarch64-apple-darwin.tar.gz"
+[[xapian]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "86fce33335ba196f4a3d63136bbd7e3404e7f9f3"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "fe4bac95a7ee8778297dd4ed9f80d217536c834d8e1c938db0fd1558762874e5"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.aarch64-linux-gnu-cxx03.tar.gz"
+[[xapian]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b1d8419255684467d86b300541ece7555293e885"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "50331617925337458ca1a0c926240d0d311eb9e69f3903bd2adaeff93ad2ec20"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.aarch64-linux-gnu-cxx11.tar.gz"
+[[xapian]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f46b52e4f20df3e1603ae0581394f1631c7b94b"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "ddac6c8b07b28baa24d85e8b8a0672e8168c57c0a83d01a7dcadf98413a4d35f"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[xapian]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1424f0c6a2ca0ef99614af6d7425c4e36df4f011"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "74fb77da8495b789d648aaa5cedc21ba1ae1c811cdc7fde1687caf3cb6c80d91"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[xapian]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7fdae797862e23e6d1091038f9d0c76ccfa452e3"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "b1e3a7a80c27da44f2f94c675a1e8dd426784cd99f703607ce5a041ff2c8a215"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[xapian]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "eb4bbd4923b30ad917b936d4913a440af217de63"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "fec3be9c1296d16c42f1af7ce49d65db5581289c7dfe262433b646f4cd3f120d"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[xapian]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7b846874a57034ebe7078e4b78f8d29a2ef3c9f7"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "652d2bb5bb03a7e1f7d51d6ee664d1e13b8469537c9a3d8538320d646775aaaf"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.i686-linux-gnu-cxx03.tar.gz"
+[[xapian]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b6ea141539d52637a4b61955e05db214cb221ea2"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "29870ee51f0a77e3c2256cb5bad7fb927d570e86a513c6d297d14f56b0b627bd"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.i686-linux-gnu-cxx11.tar.gz"
+[[xapian]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ca2e689a31fc69bdf04dfb7cb853975dcaef142c"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "39e17bfca225d22292d27afba7f01e9d887acdf2cf495fcd4376ce2b0c461ca4"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[xapian]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1706b06e1b582d607c49de7b8b6a1ab5daee7171"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "a8ace875c5c1d74df5ba9140509262457d7179331c6fbc8b14d8c7a307cff662"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[xapian]]
+arch = "x86_64"
+git-tree-sha1 = "d577bb81db8ed3cccc66fa735ec853347b2271df"
+os = "macos"
+
+    [[xapian.download]]
+    sha256 = "65a0d684cd6413bfb9c9b53b9661963212f0c255ed9f196f093dd498e4947abb"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.x86_64-apple-darwin.tar.gz"
+[[xapian]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ef6d99defc31019ac06e358116e6d54b0473fbdf"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "1011144460887a62a53b3d81a070d8ac91847fc23bd179f12d89b063839c5074"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.x86_64-linux-gnu-cxx03.tar.gz"
+[[xapian]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a5d462c79d37912acc30527c75cfa02e8f7f4dd"
+libc = "glibc"
+os = "linux"
+
+    [[xapian.download]]
+    sha256 = "ade52280c0e962958504fc33190826e51e1ba9c69dfed334fd6cc3511c4806d9"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.x86_64-linux-gnu-cxx11.tar.gz"
+[[xapian]]
+arch = "x86_64"
+git-tree-sha1 = "0a6317d0f9bc8f52255aad1b62046847768e8907"
+os = "freebsd"
+
+    [[xapian.download]]
+    sha256 = "55086ceff4baa134909521d27cd6fedd8986f6cc5271eff59953c62b80b13709"
+    url = "https://github.com/JuliaBinaryWrappers/xapian_jll.jl/releases/download/xapian-v1.4.20+0/xapian.v1.4.20.x86_64-unknown-freebsd.tar.gz"
